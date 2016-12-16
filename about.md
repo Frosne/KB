@@ -7,7 +7,7 @@
 ## Лицензирование
 
 [<img src="media/license_img.png" align="left" width="100">]()
-&nbsp;Информация опубликована на условиях лицензии [Creative Commons Noncommercial 4.0 International][cc_license_txt].
+&nbsp;Информация опубликована на условиях [Creative Commons Noncommercial 4.0 International][cc_license_txt].
 
 [mdwiki]: http://dynalon.github.io/mdwiki/#!index.md
 [kb-repo]: https://github.com/DC7499/kb
