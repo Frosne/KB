@@ -31,7 +31,7 @@
   * [Имитация целевых атак]()
   - - - -
   + # Сбор информации
-  * [Разведка на основе открытых источников](common_security/open_source_intelligence/open_source_intelligence.md)
+  * [Разведка на основе открытых источников](common/open_source_intelligence/open_source_intelligence.md)
   * [Сканирование]()
   - - - -
   + # Разработка эксплойтов
@@ -59,7 +59,7 @@
 [Общее]()
 
   + # Сбор информации
-  * [Разведка на основе открытых источников](common_security/open_source_intelligence/open_source_intelligence.md)
+  * [Разведка на основе открытых источников](common/open_source_intelligence/open_source_intelligence.md)
   * [Сканирование]()
   - - - -
   + [Восстановление паролей]()
