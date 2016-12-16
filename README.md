@@ -35,7 +35,7 @@
 ## Лицензирование
 
 [<img src="media/license_img.png" align="left" width="100">]()
-&nbsp; Данная работа опубликована на условиях лицензии [Creative Commons Noncommercial 4.0 International][cc_license_txt].
+&nbsp; Информация опубликована на условиях лицензии [Creative Commons Noncommercial 4.0 International][cc_license_txt].
 
 ## Благодарности
 
