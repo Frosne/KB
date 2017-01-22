@@ -37,9 +37,11 @@
 [<img src="media/license_img.png" align="left" width="100">]()
 &nbsp;Информация опубликована на условиях [Creative Commons Noncommercial 4.0 International][cc_license_txt].
 
+<!-- 
 ## Благодарности
 
 - Артуру Геркису aka [@ax330d][twitter_ax330d] за материалы [IT Security Catalog][IT Security Catalog]
+-->
 
 ## Контакты
 
