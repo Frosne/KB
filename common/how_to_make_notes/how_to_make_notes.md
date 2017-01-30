@@ -151,7 +151,7 @@
 
 Открой `.html`-файл дважды кликнув на него, либо перетащив в нужный тебе браузер.
 
-### Atom 
+### Atom
 
 Установи [Atom](https://atom.io/).
 
@@ -239,7 +239,7 @@ OFFENSIVE_SECURITY/
 - Продвинутый текстовый редактор [Atom](https://atom.io/)
 - [Github: Относительные ссылки в Markdown](https://github.com/blog/1395-relative-links-in-markup-files) 
 
-## Дополнительные материалы по теме
+## Дополнительные материалы
 
 - [VimWiki](https://vimwiki.github.io)
 - [Ask HN: How are you taking notes](https://news.ycombinator.com/item?id=11461985)

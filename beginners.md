@@ -82,6 +82,7 @@ Online-переводчики:
 5. Определенные типы данных эффективнее искать на специализированных площадках:
  - [amazon.com][amazon], [libgen.io][libgen], [readmanuals.github.io][readmanuals] — книги
  - [rutracker.org][rutracker] — книги, видеокурсы
+ - [youtube.com][youtube] — видеокурсы
  - [github.com][github] — проекты с открытым исходным кодом (имеет различные [поисковые операторы][github_search_operators_ru])
  - [gist.github.com][gist.github] — поиск по публичным заметкам, кратким статьям, конспектам и скриптам
 6. Многие из ныне несуществующих веб-ресурсов можно найти в архиве — [web.archive.org][web_archive]
@@ -108,6 +109,7 @@ Online-переводчики:
 **Hint**: CCNA Routing and Switching является полноценным курсом молодого бойца, включающим в себя базовые аспекты функционирования сетей. Он позволит примерно понять как работает интернет (дополнительно нужно будет только почитать про BGP и DNS) и корпоративные сети в целом.
 
 - 2014, Wendell Odom, Sean Wilkins, Cisco CCNA Routing and Switching 200-120 Official Cert Guide
+- 2012, Эндрю Таненбаум, Дэвид Уэзеролл, "Компьютерные сети", 5-е издание — рассмотрено больше технологий, но с позиции теории — есть только описание того как все функционирует, без процесса конфигурирования устройств
 - [NetAcad: Cisco CCNA Routing and Switching][bos_info_ccna_exploration]
 - [Yandex: Обучение: Системное администрирование: Сети][yandex_system_administration_talks]
 
@@ -136,6 +138,8 @@ Unix-подобные:
     * 2012, Эви Немет, Гарт Снайдер и др., Unix и Linux. Руководство системного администратора, 4-е издание
     * 2015, Эндрю Таненбаум, Херберт Бос, Современные операционные системы, 6-е издание
     * 2015, Christopher Negus, Linux Bible, 9th Edition
+
+**Hint**: Если ты не слышал про виртуализацию — самое время [познакомиться][virtualbox_for_dummies] с ней.
 
 ### Программирование
 
@@ -174,6 +178,15 @@ PowerShell:
     * [Microsoft Virtual Academy: Getting Started with Microsoft PowerShell][microsoft_virtual_academy_powershell]
 
 **Hint**: Если ты решил в первую очередь изучать Unix-подобные системы, изучай Bash не отвлекаясь на MS PowerShell.
+
+### Программирование: hard way
+
+Есть [мнение][c_or_not], что стоит сразу начать изучать Си, ассемблер и реверс. Оно имеет право на жизнь, но требует пояснения: данный путь невероятно сложен, но ведет к пониманию того как на самом деле все функционирует на самых низких уровнях. Если ты достаточно мотивирован и умен чтобы интересоваться этой темой — ты найдешь всю необходимую информацию самостоятельно. Но для начала сойдут:
+
+- [DC KB: Ассемблер][dc_kb_asm]
+- [Notabug.org: Awesome C][notabug_org_awesome_c]
+- [2013, Аллан О’Доннелл, Изучаем С используя GDB][learn_c_with_gdb]
+- [2017, Денис Юричев, Reverse Engineering для начинающих][re4b]
 
 ## Информационная безопасность
 
@@ -236,7 +249,7 @@ PowerShell:
 - [Google: Как пользоваться поиском в Google][google_how_to_search_on_google_ru]
 - [Yandex: Документные операторы][yandex_search_operators_ru]
 - [Yandex: Морфология и поисковый контекст][yandex_search-context]
-- [Как правильно задавать вопросы][how_to_ask_questions]
+- [Статья (перевод) Эрика Реймонда: Как правильно задавать вопросы][how_to_ask_questions]
 - [Интернет-магазин amazon.com][amazon]
 - [Библиотека libgen.io][libgen]
 - [Библиотека readmanuals.github.io][readmanuals]
@@ -264,7 +277,11 @@ PowerShell:
 - [Системный Администратор: Евангелие от Мыщъха. Часть 1 из 3][evangelie_ot_myshhha]
 - [LIVE Plus: интервью с Павлом Дуровым][vk_pavel_interview]
 - [Хабрахабр: Как работают ИТ-специалисты: интервью с Александром Матросовым][habr_matrosov_interview]
-- [Еще один способ вести заметки][how_to_make_notes]
+- [Статья DC KB: Еще один способ вести заметки][how_to_make_notes]
+- [Раздел DC KB: Ассемблер][dc_kb_asm]
+- [Awesome-List: Notabug.org: Awesome C][notabug_org_awesome_c]
+- [Статья (перевод) Аллана О’Доннелла, Изучаем С используя GDB][learn_c_with_gdb]
+- [Курс Дениса Юричева "Reverse Engineering для начинающих"][re4b]
 
 ## Дополнительные материалы
 
@@ -364,3 +381,10 @@ PowerShell:
 [oreilly_books]: https://lifehacker.ru/2017/01/09/free-oreilly-ebooks/
 [google_technical_development_guide_ru]: https://proglib.io/p/google-guide-for-studying/
 [proglib_catalog]: https://vk.com/proglib?w=page-54530371_44620320
+[youtube]: https://www.youtube.com/
+[virtualbox_for_dummies]: http://all-ht.ru/inf/vpc/VirtualBox.html
+[c_or_not]: https://github.com/DC7499/KB/issues/1
+[dc_kb_asm]: common/programming/assembly_language/assembly_language_ru.md 
+[notabug_org_awesome_c]: https://notabug.org/koz.ross/awesome-c 
+[learn_c_with_gdb]: https://habrahabr.ru/post/181738/ 
+[re4b]: https://beginners.re/ 
