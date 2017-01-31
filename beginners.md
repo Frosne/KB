@@ -185,7 +185,7 @@ PowerShell:
 
 - [SecurityTube, Vivek Ramachandran, Assembly Language Megaprimer for Linux][sectube_asm_linux] — введение в asm x86, работу с GDB
 - [2013, Аллан О’Доннелл, Изучаем С используя GDB][learn_c_with_gdb]
-- [2001, Брайан Керниган, Деннис Ритчи, Язык программирования C][kern_ritch] — книга от отцов-создателей. Hard way — учить по указаной выше концепции, с постоянной отладкой примеров в GDB
+- [2001, Брайан Керниган, Деннис Ритчи, Язык программирования C][kern_ritch] — книга от создателя языка. Hard way — учить по указаной выше концепции, с постоянной отладкой примеров в GDB
 <!-- - [2017, Денис Юричев, Reverse Engineering для начинающих][re4b] — следующий уровень.  -->
 
 ## Информационная безопасность
@@ -278,10 +278,9 @@ PowerShell:
 - [LIVE Plus: интервью с Павлом Дуровым][vk_pavel_interview]
 - [Хабрахабр: Как работают ИТ-специалисты: интервью с Александром Матросовым][habr_matrosov_interview]
 - [Статья DC KB: Еще один способ вести заметки][how_to_make_notes]
-- [Раздел DC KB: Ассемблер][dc_kb_asm]
-- [Awesome-List: Notabug.org: Awesome C][notabug_org_awesome_c]
+- [Видеокурс SecurityTube, Vivek Ramachandran, Assembly Language Megaprimer for Linux][sectube_asm_linux]
 - [Статья (перевод) Аллана О’Доннелла, Изучаем С используя GDB][learn_c_with_gdb]
-- [Курс Дениса Юричева "Reverse Engineering для начинающих"][re4b]
+- [Книга Брайана Кернигана и Денниса Ритчи, Язык программирования C][kern_ritch]
 
 ## Дополнительные материалы
 
@@ -296,6 +295,7 @@ PowerShell:
 - [Egor Homakov: How I started in web security][homakov_how_i_started_in_web_security]
 - [SkillFactory: Путь IT-воина: как найти работу мечты и полететь в космос][slideshare_skillfactory_anticisco_fedorov]
 - [Geektimes: Спать мало, но правильно?][habr_effective_dream]
+- [Книга Дениса Юричева "Reverse Engineering для начинающих"][re4b]
 
 <!--
 
