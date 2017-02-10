@@ -68,5 +68,8 @@
   + [Обратная разработка]()
   - - - -
   + [Программирование](common/programming/programming.md)
-
+  - - - -
+  + # Wireless technology
+  * [SDR](common/wireless/sdr.md)
+  
 [О сайте](about.md)
