@@ -388,5 +388,5 @@ PowerShell:
 [notabug_org_awesome_c]: https://notabug.org/koz.ross/awesome-c 
 [learn_c_with_gdb]: https://habrahabr.ru/post/181738/ 
 [re4b]: https://beginners.re/ 
-[kern_ritch]: www.programming1189.ru/files/Kern_Ritch.pdf
+[kern_ritch]: http://www.programming1189.ru/files/Kern_Ritch.pdf
 [sectube_asm_linux]: http://www.securitytube.net/groups?operation=view&groupId=5
