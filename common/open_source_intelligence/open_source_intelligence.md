@@ -10,6 +10,7 @@
 ## Утилиты
 
 - [Maltego](tools/maltego/maltego_main.md)
+- [SpiderFoot](http://www.spiderfoot.net)
 
 ## Ссылки
 

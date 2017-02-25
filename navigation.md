@@ -71,5 +71,6 @@
   - - - -
   + # Wireless technology
   * [SDR](common/wireless/sdr.md)
+  * [RFID](common/wireless/rfid.md)
   
 [О сайте](about.md)
