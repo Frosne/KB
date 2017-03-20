@@ -74,6 +74,7 @@ Online-переводчики:
  - [google.com][google] — англоязычные сайты
  - [yandex.ru][yandex] — русскоязычные сайты
  - [baidu.com][baidu] — азиатские сайты
+ - [duckduckgo.com][duckduckgo] — очень удобный поисковик с классными плюшками 
 4. Ключевыми условиями успешного поиска являются:
  - Понимание контекста запроса (правильно заданный вопрос — половина ответа)
  - Знание [поисковых операторов][google_search_operators_ru] [google.com][google] и [документных операторов][yandex_search_operators_ru] [yandex.ru][yandex]
@@ -245,6 +246,8 @@ PowerShell:
 - [Происковая система google.com][google]
 - [Происковая система yandex.ru][yandex]
 - [Происковая система baidu.com][baidu]
+- [Происковая система duckduckgo.com][duckduckgo]
+- [Магия DuckDuckGo. Изучаем скрытые функции поисковика, которых нет у Google][duckduckgo-options]
 - [Google: Операторы в поисковых запросах][google_search_operators_ru]
 - [Google: Как пользоваться поиском в Google][google_how_to_search_on_google_ru]
 - [Yandex: Документные операторы][yandex_search_operators_ru]
@@ -390,3 +393,5 @@ PowerShell:
 [re4b]: https://beginners.re/ 
 [kern_ritch]: http://www.programming1189.ru/files/Kern_Ritch.pdf
 [sectube_asm_linux]: http://www.securitytube.net/groups?operation=view&groupId=5
+[duckduckgo]: https://duckduckgo.com/
+[duckduckgo-options]: https://xakep.ru/2017/03/06/duckduckgo-cli-options/
