@@ -74,7 +74,7 @@ Online-переводчики:
  - [google.com][google] — англоязычные сайты
  - [yandex.ru][yandex] — русскоязычные сайты
  - [baidu.com][baidu] — азиатские сайты
- - [duckduckgo.com][duckduckgo] — очень удобный поисковик с классными плюшками 
+ - [duckduckgo.com][duckduckgo] — поисковик с претензией на защиту приватности 
 4. Ключевыми условиями успешного поиска являются:
  - Понимание контекста запроса (правильно заданный вопрос — половина ответа)
  - Знание [поисковых операторов][google_search_operators_ru] [google.com][google] и [документных операторов][yandex_search_operators_ru] [yandex.ru][yandex]
