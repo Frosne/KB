@@ -74,7 +74,7 @@ Online-переводчики:
  - [google.com][google] — англоязычные сайты
  - [yandex.ru][yandex] — русскоязычные сайты
  - [baidu.com][baidu] — азиатские сайты
- - [http://www.torchtorsearch.com/][Deep web search] - Поиск в Tor'е. 
+ - [Dark web search](http://www.torchtorsearch.com/) — Tor
 4. Ключевыми условиями успешного поиска являются:
  - Понимание контекста запроса (правильно заданный вопрос — половина ответа)
  - Знание [поисковых операторов][google_search_operators_ru] [google.com][google] и [документных операторов][yandex_search_operators_ru] [yandex.ru][yandex]
