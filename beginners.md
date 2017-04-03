@@ -1,4 +1,4 @@
-# Начинающим
+а# Начинающим
 
 Этот раздел представляет собой редактируемый сборник советов по обучению для начинающих специалистов в области практической информационной безопасности (приемущественно — компьютерной, или кибербезопасности).
 
@@ -74,7 +74,8 @@ Online-переводчики:
  - [google.com][google] — англоязычные сайты
  - [yandex.ru][yandex] — русскоязычные сайты
  - [baidu.com][baidu] — азиатские сайты
- - [duckduckgo.com][duckduckgo] — поисковик с претензией на защиту приватности 
+ - [duckduckgo.com][duckduckgo] — поисковик с претензией на защиту приватности
+ - [torchtorsearch.com][torchtorsearch] — происк по сети TOR
 4. Ключевыми условиями успешного поиска являются:
  - Понимание контекста запроса (правильно заданный вопрос — половина ответа)
  - Знание [поисковых операторов][google_search_operators_ru] [google.com][google] и [документных операторов][yandex_search_operators_ru] [yandex.ru][yandex]
@@ -395,3 +396,4 @@ PowerShell:
 [sectube_asm_linux]: http://www.securitytube.net/groups?operation=view&groupId=5
 [duckduckgo]: https://duckduckgo.com/
 [duckduckgo-options]: https://xakep.ru/2017/03/06/duckduckgo-cli-options/
+[torchtorsearch]: http://www.torchtorsearch.com/
