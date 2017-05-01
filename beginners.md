@@ -300,6 +300,7 @@ PowerShell:
 - [SkillFactory: Путь IT-воина: как найти работу мечты и полететь в космос][slideshare_skillfactory_anticisco_fedorov]
 - [Geektimes: Спать мало, но правильно?][habr_effective_dream]
 - [Книга Дениса Юричева "Reverse Engineering для начинающих"][re4b]
+- [(EN) Очень большая подборка материалов от Case & S1rlancelot][dumps-by-Case-and-S1rlancelot]
 
 <!--
 
@@ -397,3 +398,4 @@ PowerShell:
 [duckduckgo]: https://duckduckgo.com/
 [duckduckgo-options]: https://xakep.ru/2017/03/06/duckduckgo-cli-options/
 [torchtorsearch]: http://www.torchtorsearch.com/
+[dumps-by-Case-and-S1rlancelot]: https://ghostbin.com/paste/j858d
