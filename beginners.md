@@ -84,6 +84,7 @@ Online-переводчики:
 5. Определенные типы данных эффективнее искать на специализированных площадках:
  - [amazon.com][amazon], [libgen.io][libgen], [readmanuals.github.io][readmanuals] — книги
  - [rutracker.org][rutracker] — книги, видеокурсы
+ - [coderprog.com][coderprog], [foxebook.net][foxebook], [bookslibland.com][bookslibland] - порой там можно найти книги, которых нет на ресурсах выше
  - [youtube.com][youtube] — видеокурсы
  - [github.com][github] — проекты с открытым исходным кодом (имеет различные [поисковые операторы][github_search_operators_ru])
  - [gist.github.com][gist.github] — поиск по публичным заметкам, кратким статьям, конспектам и скриптам
