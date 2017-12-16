@@ -400,3 +400,6 @@ PowerShell:
 [duckduckgo-options]: https://xakep.ru/2017/03/06/duckduckgo-cli-options/
 [torchtorsearch]: http://www.torchtorsearch.com/
 [dumps-by-Case-and-S1rlancelot]: https://ghostbin.com/paste/j858d
+[coderprog]: https://coderprog.com/
+[foxebook]: http://www.foxebook.net/
+[bookslibland]: http://bookslibland.com/
