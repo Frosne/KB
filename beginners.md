@@ -84,6 +84,7 @@ Online-переводчики:
 5. Определенные типы данных эффективнее искать на специализированных площадках:
  - [amazon.com][amazon], [libgen.io][libgen], [readmanuals.github.io][readmanuals] — книги
  - [rutracker.org][rutracker] — книги, видеокурсы
+ - [coderprog.com][coderprog], [foxebook.net][foxebook], [bookslibland.com][bookslibland] - порой там можно найти книги, которых нет на ресурсах выше
  - [youtube.com][youtube] — видеокурсы
  - [github.com][github] — проекты с открытым исходным кодом (имеет различные [поисковые операторы][github_search_operators_ru])
  - [gist.github.com][gist.github] — поиск по публичным заметкам, кратким статьям, конспектам и скриптам
@@ -399,3 +400,6 @@ PowerShell:
 [duckduckgo-options]: https://xakep.ru/2017/03/06/duckduckgo-cli-options/
 [torchtorsearch]: http://www.torchtorsearch.com/
 [dumps-by-Case-and-S1rlancelot]: https://ghostbin.com/paste/j858d
+[coderprog]: https://coderprog.com/
+[foxebook]: http://www.foxebook.net/
+[bookslibland]: http://bookslibland.com/
